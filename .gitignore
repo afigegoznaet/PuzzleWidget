@@ -1,0 +1,7 @@
+*.user
+*.pro.user*
+ui_*.h
+*.autosave
+debug/*
+release/*
+.vs/*
